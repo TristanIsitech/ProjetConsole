@@ -46,7 +46,7 @@ namespace JeuxEcheque
             {
                 Console.Write(n.ToString()+" ");
                 for (int i = 0; i < 8; i++)
-                {
+                { 
                     if (n % 2 ==1)
                     {
                         if(i%2 == 1)
