@@ -677,6 +677,7 @@ namespace JeuxEcheque
             return s;
         }
 
+
         // Convertion des noms des joueurs en couleur de plateau
         public static string ConvertPlayer(string player)
         {
